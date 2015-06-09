@@ -1,0 +1,153 @@
+body
+{
+	background : #FFF ;
+	color      : #000 ;
+	margin     : 0 ;
+	border     : 0 ;
+	padding    : 0 ;
+}
+
+.creative
+{
+	display : block ;
+	height  : 30px  ;
+	font-family : sans-serif ;
+	font    : 14px sans-serif ;
+}
+
+.creative1
+{
+	position : absolute ;
+	left     : 0 ;
+	top      : 0 ;
+	height   : 30px  ;
+	margin-left : 5px ;
+}
+
+.creative_right
+{
+	position : absolute ;
+	right    : 0 ;
+	top      : 0 ;
+	height   : 30px  ;
+	margin-right : 5px ;
+}
+
+.creative_ul
+{
+	display : block ;
+	list-style : none ;
+	margin  : 0 ;
+	padding : 0 ;
+	border  : 0 ;
+}
+
+.creative2
+{
+	position : relative ;
+	display  : inline-block ;
+	vertical-align : top ;
+
+}
+
+.creative4
+{
+	display : block ;
+	border-top : 2px solid ;
+}
+
+.creative5
+{
+	display  : inline ;
+	padding  :  6px ;
+	position : relative ;
+	line-height : 28px ;
+	color : #CCC ;
+}
+gbd.gbm
+{
+        width :94px ;
+        height :259px ;
+}
+gbmmb.gbmc.gbsb.gbsbis
+{
+        width :92px ;
+        height :257px ;
+}
+
+gbmm.gbmcc gbsbic 
+{
+        width:92px ;
+        height : 237px ;
+}
+
+.gbmtc
+{ 
+        width :92px ;
+        height :27px ;
+}
+
+.gbmt.gbmh
+{
+        width :92px ;
+        height :1px ;
+}
+
+.gbmt
+{
+        width :92px ;
+        height :27px ;
+}
+
+.gbsbt
+{
+        width :92px ;
+        height :6px ;
+}
+
+.gbsbb
+{
+        width :92px ;
+        height :4px ;
+}
+
+.creative3
+{
+	color : #2D2D2D ;
+	text-decoration : none ;
+}
+
+.creative6
+{
+	color : #DD4B39 ;
+	text-decoration : none ;
+}
+
+.top_black_line
+{
+	background-color : #2D2D2D ;
+	height : 30px ;
+}
+
+.logo
+{
+	margin-top  : 150px ;
+}
+
+.search_area
+{
+	margin-top :  10px ;
+	width      : 500px ;
+	height     :  90px ;
+}
+
+.search_form
+{
+	width  : 500px ;
+	height :  20px ;
+}
+
+.search_button
+{
+	margin-top : 10px ;
+}
